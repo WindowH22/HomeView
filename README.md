@@ -1,3 +1,6 @@
-# HomeView
+<strong> Welcome to my GitHub! I'm Changhee-Lee, backend developer 🤗 </strong>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowH22)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Java & Spring project
+- 🌱 I’m currently learning Spring Cloud & Docker
+- 👯 I’m looking  for a company to grow with.
+- ✉️ Contact Me : chdark1@gmail.com
